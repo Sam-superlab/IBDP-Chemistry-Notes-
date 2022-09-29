@@ -9,4 +9,8 @@ It is mainly to help some students who may not understand it to review in the la
 
 
 ## How to use this note ?
-In the top of this note there is a content and you can click it and jump to the desired interface
+In the top of this note there is a content and you can click it and jump to the desired interface. 
+
+
+## Join us 
+If anyone wants to join this project of IBDP course notes please contact me by the email: 3207340653@qq.com
