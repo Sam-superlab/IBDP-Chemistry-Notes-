@@ -13,4 +13,4 @@ In the top of this note there is a content and you can click it and jump to the 
 
 
 ## Join us 
-If anyone wants to join this project of IBDP course notes please contact me by the email: 3207340653@qq.com
+If you want to join this project of IBDP course notes please contact me by the email: 3207340653@qq.com
